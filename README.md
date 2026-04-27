@@ -1,8 +1,6 @@
 # Clinic-Appointment-and-Diagnostics-Platform-DB-Design
 
-# Clinic Management System
-
-![ERD](./Clinic-Management-System-diagram.png)
+![ERD](./Clinic-diagram.png)
 
 ---
 
